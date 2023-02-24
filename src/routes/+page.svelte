@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  let username = 'Seko_Solares';
+</script>
+
+<h1> Welcome to Drone Collector Page </h1>
+<h2> My name is {username} </h2>
